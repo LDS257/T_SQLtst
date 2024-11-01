@@ -1,4 +1,4 @@
--- тестовое изменение
+-- тест на pull request
 create procedure syn.usp_ImportFileCustomerSeasonal
 	@ID_Record int
 AS
